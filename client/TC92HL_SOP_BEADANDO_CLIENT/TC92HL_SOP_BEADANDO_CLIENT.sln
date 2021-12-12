@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC92HL_SOP_BEADANDO_CLIENT", "TC92HL_SOP_BEADANDO_CLIENT\TC92HL_SOP_BEADANDO_CLIENT.csproj", "{5FED1F73-9419-4784-92BE-CB62691135ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FED1F73-9419-4784-92BE-CB62691135ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FED1F73-9419-4784-92BE-CB62691135ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FED1F73-9419-4784-92BE-CB62691135ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FED1F73-9419-4784-92BE-CB62691135ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {882B76EA-DDE1-44E1-8BDA-732E08A6398A}
+	EndGlobalSection
+EndGlobal
